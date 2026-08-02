@@ -13,6 +13,7 @@
 | 26.07.28 | SpringFramework, vuJS를 이용한 게시판 제작 | springFrmaework와 vueJS를 활용해 게시판 제작 (파일 업로드) | [보러가기](./doc/2026-07-28.md ) |
 | 26.07.29 | Spring MVC 구조 흐름 파악 및 TransAction(트랜잭션) 학습 | Spring의 MVC 구조로 웹 페이지를 만드는 흐름을 다시 한번 파악하고 트랜잭션의 활용 | [보러가기](./doc/2026-07-29.md ) |
 | 26.07.30 | GitHub Actions를 이용해 CI/CD 배포 진행 | (리플형 게시판 만들어서 GitHub Actions를 활용한 CI/CD 배포 진행)| [보러가기](./doc/2026-07-30.md ) |
+| 26.07.31 | security | SpringFramework 보안관련 코드 구현 및 실행 | [보러가기](./doc/2026-07-31.md )  |
 | 26.07.20 ~ 26.??.?? |  학습자료 정리 | 웹 학습에 도움이 되는 자료 모음 | [보러가기](./Spring_정리자료) |
 
 
